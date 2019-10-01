@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/polinb/CLionProjects/CryptographyCourse2019/DES/main.cpp
+iostream
+-
+vector
+-
+fstream
+-
+tables.h
+/home/polinb/CLionProjects/CryptographyCourse2019/DES/tables.h
+
+/home/polinb/CLionProjects/CryptographyCourse2019/DES/tables.h
+vector
+-
+
