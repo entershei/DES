@@ -1,4 +1,4 @@
-# Install script for directory: /home/polinb/CLionProjects/CryptographyCourse2019/DES
+# Install script for directory: /home/ira/Learning/Cryptography/DES
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -45,5 +45,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/home/polinb/CLionProjects/CryptographyCourse2019/DES/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/home/ira/Learning/Cryptography/DES/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

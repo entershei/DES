@@ -1,7 +1,7 @@
 file(REMOVE_RECURSE
   "CMakeFiles/DES.dir/main.cpp.o"
-  "DES"
   "DES.pdb"
+  "DES"
 )
 
 # Per-language clean rules from dependency scanning.
